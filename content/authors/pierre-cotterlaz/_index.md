@@ -1,7 +1,8 @@
 ---
 title: Pierre Cotterlaz
-role: Economist at CEPII
-avatar_filename: pierre_cotterlaz_2023_hd.jpg
+role: Economist, CEPII
+avatar_filename: ""
+bio: I'm an economist in the trade analysis team at CEPII
 social:
   - display:
       header: false
